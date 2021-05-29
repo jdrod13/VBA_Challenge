@@ -2,7 +2,7 @@
 
 ## Overview of Project
     
-   **Steve is helping his parents manage their investment portfolio, and Steve’s parents have decided that they would like to invest all their money in DAQO New Energy Corp. However, Steve wants our help to analyze DAQO’s data of the stock and look for opportunities to diversify their portfolio in other good green energy companies**
+   **Steve is helping his parents managing their investment's portfolio, and Steve’s parents have decided that they would like to invest all their money in DAQO New Energy Corp. However, Steve wants our help to analyze DAQO’s data of the stock and look for opportunities to diversify their portfolio in other good green energy companies**
 
 ### Purpose
      
